@@ -1,0 +1,26 @@
+{
+  "name": "http-const",
+  "version": "1.0.2",
+  "description": "HTTP constants: methods, protocols, headers, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexanderMac/http-const"
+  },
+  "keywords": [
+    "http",
+    "const"
+  ],
+  "author": {
+    "name": "AlexanderMac",
+    "email": "amatsibarov@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexanderMac/http-const/issues"
+  },
+  "homepage": "https://github.com/AlexanderMac/http-const"
+}
