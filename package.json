@@ -1,6 +1,6 @@
 {
   "name": "http-const",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "HTTP constants: methods, protocols, headers, etc.",
   "main": "index.js",
   "scripts": {
