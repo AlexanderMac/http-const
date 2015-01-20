@@ -1,7 +1,7 @@
 # http-const
 HTTP constants: methods, protocols, headers, content types, etc.
 
-## Install
+## Installation
 
 ```
 npm i -S http-const
