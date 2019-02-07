@@ -1,4 +1,8 @@
-# http-const
+http-const
+===================
+
+# WARNING: this repo is not maintained anymore.
+
 HTTP constants: methods, protocols, headers, content types, etc.
 
 ## Installation
