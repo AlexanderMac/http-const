@@ -1,17 +1,15 @@
-http-const
-===================
-
-# WARNING: this repo is not maintained anymore.
+# http-const
+## WARNING :warning:: This repo is not maintained anymore.
 
 HTTP constants: methods, protocols, headers, content types, etc.
 
-## Installation
+### Installation
 
 ```
 npm i -S http-const
 ```
 
-## Usage
+### Usage
 
 ``` js
 var httpConst = require('http-const');
@@ -23,12 +21,10 @@ console.log(httpConst.headers.contentType); // will output Content-Type
 console.log(httpConst.contentTypes.formData); // will output multipart/form-data
 ```
 
-## License
+### License
 This code available under the MIT License.
 See License.md for details.  
 
-
-## Authors
-
-**Alexander Mac** ([amatsibarov@gmail.com](mailto:amatsibarov@gmail.com))
+### Author
+Alexander Mac
 
