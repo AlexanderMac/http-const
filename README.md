@@ -21,10 +21,9 @@ console.log(httpConst.headers.contentType); // will output Content-Type
 console.log(httpConst.contentTypes.formData); // will output multipart/form-data
 ```
 
-### License
-This code available under the MIT License.
-See License.md for details.  
-
 ### Author
 Alexander Mac
 
+### License
+This code available under the MIT License.
+See License.md for details.  
